@@ -1,4 +1,4 @@
-## House Price Challenge
+## House Price Prediction Challenge
 
 ### Description 
 This notebook is created as a part of **House Prices: Advanced Regression Techniques** Kaggle challenge and supposed to predict sale price of houses.
