@@ -19,5 +19,5 @@ In this project following techniques are used:
 * **Hyperparameter turning:** GridSearchCV
 * **Model training/applying:** Pipeline, tran_test_split
 
-### Installation:
+### Installation
 You shouldn't really install this code, just click on the "HousePriceChallenge.ipynb" file and in the follow window click on "Open in Colab" button. This will redirect you on [Colab](colab.research.google.com) by Google website. 
